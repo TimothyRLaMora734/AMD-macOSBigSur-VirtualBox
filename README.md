@@ -3,3 +3,4 @@ Tutorial on how to run macOS Big Sur (Beta) in VirtualBox on AMD CPU devices (Wi
 ## Downloads:
 Required
 * [VirtualBox](https://download.virtualbox.org/virtualbox/6.1.12/VirtualBox-6.1.12-139181-Win.exe)
+* [VirtualBox Extension Pack](https://download.virtualbox.org/virtualbox/6.1.12/Oracle_VM_VirtualBox_Extension_Pack-6.1.12.vbox-extpack)
