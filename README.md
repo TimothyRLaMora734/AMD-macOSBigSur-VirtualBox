@@ -1,3 +1,4 @@
-# Run macOS Big Sur in Virtual Box on AMD CPU devices (Windows)
-Tutorial on how to run macOS Big Sur (Beta) in Virtual Box on AMD CPU devices (Windows).
+# Run macOS Big Sur in VirtualBox on AMD CPU devices (Windows)
+Tutorial on how to run macOS Big Sur (Beta) in VirtualBox on AMD CPU devices (Windows).
 ## Downloads:
+* [VirtualBox](https://download.virtualbox.org/virtualbox/6.1.12/VirtualBox-6.1.12-139181-Win.exe)
